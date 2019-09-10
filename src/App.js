@@ -6,6 +6,7 @@ class App extends Component {
       <div>
         woshi AAP
         我是新添加的东西
+        这是我第二次添加
       </div>
     );
   }
