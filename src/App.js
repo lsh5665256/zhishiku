@@ -5,6 +5,7 @@ class App extends Component {
     return (
       <div>
         woshi AAP
+        我是新添加的东西
       </div>
     );
   }
