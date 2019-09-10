@@ -7,6 +7,7 @@ class App extends Component {
         woshi AAP
         我是新添加的东西
         这是我第二次添加
+        这是我都三次添加
       </div>
     );
   }
